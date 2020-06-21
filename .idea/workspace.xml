@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1dcu73Dk36Q0U3mPxbnUokLIYHl" />
+  <component name="RunManager">
+    <configuration name="programArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programArray" />
+      <module name="pemdas-04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.programArray" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
